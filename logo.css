@@ -1,0 +1,70 @@
+#svg-logo {
+  position: absolute;
+  height: 600px;
+  width: 400px;
+  top: 50%;
+  left: 50%;
+  transform: translateX(-160%) translateY(-32%);
+}
+
+.logo {
+  height: 400px;
+}
+
+@keyframes zoom {
+  0% {transform: scale(1.0);}
+  5% {transform: scale(1.25);}
+  100% {transform: scale(1.25);}
+}
+
+@keyframes goUp {
+  0%   {transform: translateY(0px)}
+  15% {transform: translateY(-50px)}
+  50% {transform: translateY(-50px)}
+}
+
+@keyframes goDown {
+  0%   {transform: translateY(0px)}
+  15% {transform: translateY(100px)}
+  50% {transform: translateY(100px)}
+}
+
+@keyframes shake {
+  0% {transform: rotate(0deg)}
+  33% {transform: rotate(30deg)}
+  66% {transform: rotate(0deg)}
+  100% {transform: rotate(-30deg)}
+}
+
+.logo:hover {
+  animation: zoom 10s 1;
+
+}
+
+.logo:hover .upper {
+  animation: goUp 10s;
+}
+
+.logo:hover .lower {
+  animation: goDown 10s;
+}
+
+.logo:hover .inside {
+  animation: goDown 10s;
+}
+
+.letter{
+  z-index: 10;
+}
+
+#github_link {
+  position: absolute;
+  bottom: 225px;
+  left: 50%;
+  transform: translateX(-225%);
+  text-align: center;
+  width: 300px;
+  font-family: 'MalikTrial', sans-serif;
+  z-index: -10;
+}
+
