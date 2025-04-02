@@ -1,14 +1,8 @@
-#svg-logo {
-  position: absolute;
-  height: 600px;
-  width: 400px;
-  top: 50%;
-  left: 50%;
-  transform: translateX(-160%) translateY(-32%);
-}
-
 .logo {
+  position: absolute;
   height: 400px;
+  top: 27%;
+  left: 5%;
 }
 
 @keyframes zoom {
