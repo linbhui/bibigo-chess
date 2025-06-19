@@ -33,7 +33,7 @@ This project is a digital representation of a real-life chess game, featuring **
 
 ### Future Enhancements
 
-I'm actively working on improving the game with:
+I hope to work on improving the game with:
 
 - AI Opponent – Play against a computer-powered AI
 - Customization Options – Choose and customize team pieces
