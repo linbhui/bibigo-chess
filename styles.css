@@ -74,7 +74,8 @@ path {
     position: fixed;
     font-family: 'MalikTrial', sans-serif;
     font-size: 40px;
-    text-align: center;
+    text-align: left;
+    margin-left: 50px;
     color: #fff8eb;
     width: 300px;
     height: 100px;
