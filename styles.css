@@ -1,3 +1,10 @@
+@font-face {
+    font-family: 'MalikTrial';
+    src: url(MalikTrial-Bold.ttf) format('truetype');
+    font-weight: bold;
+    font-style: normal;
+}
+
 #screen {
     position: fixed;
     top: 0;
@@ -47,8 +54,6 @@ path {
     z-index: -10;
 }
 
-
-
 .beige {
     background-color: #fff8eb;
 }
@@ -63,13 +68,6 @@ path {
 
 }
 
-@font-face {
-    font-family: 'MalikTrial';
-    src: url(MalikTrial-Bold.ttf) format('truetype');
-    font-weight: bold;
-    font-style: normal;
-}
-
 #turn {
     position: fixed;
     font-family: 'MalikTrial', sans-serif;
@@ -82,8 +80,6 @@ path {
     margin-left: auto;
     margin-right: auto;
     top: 0;
-    left: 50%;
-    transform: translateX(-50%);
 
 }
 
