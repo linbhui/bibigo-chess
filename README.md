@@ -1,6 +1,7 @@
 # Bibigo chess
 **A simple chess game inspired by Bibigo products**
 
+### Live Demo: [Bibigo Chess](https://grand-granita-5e8c51.netlify.app/)
 ![image](https://github.com/user-attachments/assets/2a7ba8d3-9a13-467d-a263-f9af604b275c)
 
 This project is a digital representation of a real-life chess game, featuring **16 pieces per team** in the traditional layout. The key highlight is its **business-driven approach**, where <ins>product images replace standard chess pieces</ins> . The two competing teams are named **"Green"** and **"Red"**.
