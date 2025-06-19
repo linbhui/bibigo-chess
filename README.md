@@ -1,5 +1,5 @@
 # Bibigo chess
-**A simple chess game inspired by Bibigo prodects for my CJ Cheijedang Global Internship 2025 application**
+**A simple chess game inspired by Bibigo products**
 
 ![image](https://github.com/user-attachments/assets/2a7ba8d3-9a13-467d-a263-f9af604b275c)
 
