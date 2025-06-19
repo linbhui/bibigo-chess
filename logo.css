@@ -53,9 +53,9 @@
 
 #github_link {
   position: absolute;
-  bottom: 225px;
+  bottom: 175px;
   left: 50%;
-  transform: translateX(-225%);
+  transform: translateX(-235%);
   text-align: center;
   width: 300px;
   font-family: 'MalikTrial', sans-serif;
